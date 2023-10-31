@@ -1,6 +1,6 @@
 # MetronicBootcamp
-This shall contain the full solution
-
+This repo contain the full solution
+Check out the walkthrough at this [Video](https://youtu.be/Lx8Uv8MknkI)
 ---
 
 # The Shopping Cart Application by Hassan Tofayli
