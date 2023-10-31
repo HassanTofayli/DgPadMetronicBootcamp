@@ -1,0 +1,188 @@
+﻿<div class="app-navbar-item align-items-stretch ms-1 ms-md-4">
+
+	<!--begin::Search-->
+	<div id="kt_header_search" class="header-search d-flex align-items-stretch" data-kt-search-keypress="true" data-kt-search-min-length="2" data-kt-search-enter="enter" data-kt-search-layout="menu" data-kt-menu-trigger="auto" data-kt-menu-overflow="false" data-kt-menu-permanent="true" data-kt-menu-placement="bottom-end" data-kt-search="true">
+
+		<!--begin::Search toggle-->
+		<div class="d-flex align-items-center" data-kt-search-element="toggle" id="header_search_toggle">
+			<div class="btn btn-icon btn-custom btn-icon-muted btn-active-light btn-active-color-primary w-35px h-35px">
+				<i class="ki-duotone ki-magnifier fs-2"><span class="path1"></span><span class="path2"></span></i>
+			</div>
+		</div>
+		<!--end::Search toggle-->
+		<!--begin::Menu-->
+		<div data-kt-search-element="content" id="header_search_menu" class="menu menu-sub menu-sub-dropdown p-7 w-325px w-md-375px" data-kt-menu="true" style="z-index: 107; position: fixed; inset: 0px 0px auto auto; margin: 0px; transform: translate3d(-318.269px, 74.0385px, 0px);" data-popper-placement="bottom-end">
+			<!--begin::Wrapper-->
+			<div data-kt-search-element="wrapper">
+				<!--begin::Form-->
+				<form asp-controller="Home" asp-action="Search" data-kt-search-element="form" class="w-100 position-relative mb-3" autocomplete="off">
+					<!--begin::Icon-->
+					<i class="ki-duotone ki-magnifier fs-2 text-gray-500 position-absolute top-50 translate-middle-y ms-0"><span class="path1"></span><span class="path2"></span></i>    <!--end::Icon-->
+					<!--begin::Input-->
+					<input type="text" class="search-input  form-control form-control-flush ps-10" name="search" value="" placeholder="Search..." data-kt-search-element="input">
+					<!--end::Input-->
+					<!--begin::Spinner-->
+					<span class="search-spinner  position-absolute top-50 end-0 translate-middle-y lh-0 d-none me-1" data-kt-search-element="spinner">
+						<span class="spinner-border h-15px w-15px align-middle text-gray-500"></span>
+					</span>
+					<!--end::Spinner-->
+					<!--begin::Reset-->
+					<span class="search-reset  btn btn-flush btn-active-color-primary position-absolute top-50 end-0 translate-middle-y lh-0 d-none" data-kt-search-element="clear">
+						<i class="ki-duotone ki-cross fs-2 fs-lg-1 me-0"><span class="path1"></span><span class="path2"></span></i>
+					</span>
+					<!--end::Reset-->
+
+				</form>
+				<!--end::Form-->
+				<!--begin::Separator-->
+				<div class="separator border-gray-200 mb-6"></div>
+				<!--end::Separator-->
+				<!--begin::Recently viewed-->
+				<div data-kt-search-element="results" class="d-none">
+					<!--begin::Items-->
+					<div class="scroll-y mh-200px mh-lg-350px">
+						<!--begin::Category title-->
+						<h3 class="fs-5 text-muted m-0  pb-5" data-kt-search-element="category-title">
+							Users
+						</h3>
+						<!--end::Category title-->
+						<!--begin::Item-->
+						<a href="#" class="d-flex text-gray-900 text-hover-primary align-items-center mb-5">
+
+							<!--begin::Title-->
+							<div class="d-flex flex-column justify-content-start fw-semibold">
+								<span class="fs-6 fw-semibold">Karina Clark</span>
+								<span class="fs-7 fw-semibold text-muted">Marketing Manager</span>
+							</div>
+							<!--end::Title-->
+						</a>
+						<!--end::Item-->
+
+
+					</div>
+					<!--end::Items-->
+				</div>
+				<!--end::Recently viewed-->
+				<!--begin::Recently viewed-->
+				<div class="mb-5" data-kt-search-element="main">
+					<!--begin::Heading-->
+					<div class="d-flex flex-stack fw-semibold mb-4">
+						<!--begin::Label-->
+						<span class="text-muted fs-6 me-2">Recently Searched:</span>
+						<!--end::Label-->
+						<p class="btn btn-danger clear-search-history" id="clear-search-history">clear</p>
+						<script>
+							document.querySelector('.clear-search-history').addEventListener('click', function () {
+								fetch('/Home/ClearSearch', {
+									method: 'POST',
+								})
+									.then(data => {
+										console.log('Success:', data);
+										// Remove elements here if the request is successful.
+										let elements = document.querySelectorAll('.search-history-item');
+										document.getElementById('clear-search-history').remove();
+										elements.forEach((element) => {
+											element.remove();
+										});
+									})
+									.catch((error) => {
+										console.error('Error:', error);
+									});
+							});
+
+
+						</script>
+					</div>
+					<!--end::Heading-->
+					<!--begin::Items-->
+					<div class="scroll-y mh-200px mh-lg-325px">
+						@if (ViewBag.RecentlySearched != null)
+						{
+							foreach (var item in ViewBag.RecentlySearched)
+							{
+								<!--begin::Item-->
+								<div class="d-flex align-items-center mb-5 search-history-item">
+									<!--begin::Symbol-->
+									<div class="symbol symbol-40px me-4">
+										<span class="symbol-label bg-light">
+											<i class="ki-duotone ki-laptop fs-2 text-primary"><span class="path1"></span><span class="path2"></span></i>
+										</span>
+									</div>
+									<!--end::Symbol-->
+									<!--begin::Title-->
+									<div class="d-flex flex-column">
+										<a href="/Search?search=@item" class="fs-6 text-gray-800 text-hover-primary fw-semibold " id="search-item-text">@item</a>
+										<span class="fs-7 text-muted fw-semibold " id="search-item-slug">#</span>
+									</div>
+									<!--end::Title-->
+								</div>
+								<!--end::Item-->
+							}
+						}
+						else
+						{
+							<!--begin::Item-->
+							<div class="d-flex align-items-center mb-5">
+								<!--begin::Symbol-->
+								<div class="symbol symbol-40px me-4">
+									<span class="symbol-label bg-light">
+										<i class="ki-duotone ki-laptop fs-2 text-primary"><span class="path1"></span><span class="path2"></span></i>
+									</span>
+								</div>
+								<!--end::Symbol-->
+								<!--begin::Title-->
+								<div class="d-flex flex-column">
+									<a href="" class="fs-6 text-gray-800 text-hover-primary fw-semibold" id="search-item-text">No searches</a>
+									<span class="fs-7 text-muted fw-semibold " id="search-item-slug">#</span>
+								</div>
+								<!--end::Title-->
+							</div>
+							<!--end::Item-->
+						}
+
+						<script>
+
+							var text = document.getElementById("search-item-text");
+							var slug = document.getElementById("search-item-slug");
+							var final = text.textContent
+							console.log(final);
+							final = text.textContent.toLowerCase().replace(" ", "-")
+							console.log(final);
+							slug.textContent = final
+
+						</script>
+
+					</div>
+					<!--end::Items-->
+				</div>
+				<!--end::Recently viewed-->
+
+			</div>
+			<!--end::Wrapper-->
+
+		</div>
+		<!--end::Menu-->
+	</div>
+</div>
+
+
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		var toggleButton = document.getElementById("header_search_toggle");
+		var searchMenu = document.getElementById('header_search_menu');
+		var app = document.getElementById("kt_app_main");
+
+		toggleButton.addEventListener("click", function () {
+			app.addEventListener("click", function () {
+				if (searchMenu.classList.contains("show")) {
+					searchMenu.classList.remove("show");
+				}
+			});
+			if (searchMenu.classList.contains("show")) {
+				searchMenu.classList.remove("show");
+			} else {
+				searchMenu.classList.add("show");
+			}
+		});
+	});
+</script>

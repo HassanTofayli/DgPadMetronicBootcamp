@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Category>
+
+@{
+	ViewData["Title"] = "Categories";
+}
+
+<div class="card card-flush h-xl-100">
+	<div class="card-header pt-7">
+		<h3 class="card-title align-items-start flex-column">
+			<span class="card-label fw-bold text-dark">Product Delivery</span>
+			<span class="text-gray-400 mt-1 fw-semibold fs-6">1M Products Shipped so far</span>
+		</h3>
+
+	</div>
+	<div class="card-body">
+
+		<div class="card mb-5 mb-xl-10">
+
+			@foreach (var c in Model)
+			{
+
+				<div data-id="@c.Id" class="Product border border-dashed border-gray-300 rounded px-7 py-3 mb-6">
+					<div class="d-flex flex-stack mb-3">
+						@*First part of the card*@
+						<div class="me-3 ">
+							<img src="~/media/products/@c.ThumbnailImage" class="w-50px ms-n1 me-1" alt="" />
+						</div>
+					
+
+						<div class="m-0">
+							<a asp-action="Delete" asp-route-id="c.Id" class="btn btn-icon btn-color-gray-400 btn-active-color-primary justify-content-end"
+								data-kt-menu-trigger="click"
+								data-kt-menu-placement="bottom-end"
+								data-kt-menu-overflow="true">
+								<i class="ki-duotone ki-cross fs-1"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></i>
+							</a>
+
+						</div>
+					</div>
+				</div>
+
+			}
+
+
+		</div>
+	</div>
+</div>

@@ -1,0 +1,338 @@
+﻿@model IEnumerable<Product>
+
+@{
+	ViewData["Title"] = "Products";
+}
+<div class="card card-flush h-xl-100">
+	<div class="card-header pt-7">
+		<h3 class="card-title align-items-start flex-column">
+			<span class="card-label fw-bold text-dark">Product Delivery</span>
+			<span class="text-gray-400 mt-1 fw-semibold fs-6">1M Products Shipped so far</span>
+		</h3>
+
+	</div>
+	<div class="card-body">
+
+		<div class="card mb-5 mb-xl-10">
+
+			@foreach (var p in Model)
+			{
+
+				<div data-id="@p.Id" class="Product border border-dashed border-gray-300 rounded px-7 py-3 mb-6">
+					<div class="d-flex flex-stack mb-3">
+						@*First part of the card*@
+						<div class="me-3 ">
+							<img src="~/media/products/@p.ThumbnailImage" class="w-50px ms-n1 me-1" alt="" />
+							<a asp-action="EditProduct" asp-route-id="@p.Id" data-id="@p.Id" class="ProductName text-gray-800 text-hover-primary fw-bold">@p.Name</a>
+							<p class="ProductPrice" data-id="@p.Id" >@p.Price.ToString("C2")</p>
+						</div>
+						<style>
+							/* Custom styles for Bootstrap Carousel */
+							.carousel-control-prev-icon,
+							.carousel-control-next-icon {
+								background-color: black;
+								width: 30px;
+								height: 30px;
+								border-radius: 10px;
+							}
+
+							.carousel-control-prev,
+							.carousel-control-next {
+								position: absolute;
+								top: 50%;
+								width: auto;
+								bottom: auto;
+								padding: 0;
+								opacity: 1;
+								text-align: center;
+								background: none;
+							}
+
+							.carousel-control-prev {
+								left: -40px; /* Change this to place the left arrow where you want */
+							}
+
+							.carousel-control-next {
+								right: -40px; /* Change this to place the right arrow where you want */
+							}
+						</style>
+
+						@if (p.ImagesUrls != null && p.ImagesUrls.Count > 0)
+						{
+
+
+							<div id="@p.Id" class="carousel slide" data-bs-interval="false">
+								<div class="carousel-inner">
+									@{
+										int count = 0;
+										foreach (var i in p.ImagesUrls)
+										{
+											<div class="carousel-item @(count == 0 ? "active" : "")">
+												<img style=" height:150px;width:auto;" src="~/media/products/@i.url" class="d-block w-100" alt="...">
+											</div>
+											count++;
+										}
+									}
+								</div>
+								@if (p.ImagesUrls.Count > 1)
+								{
+									<button class="carousel-control-prev" type="button" data-bs-target="#@p.Id" data-bs-slide="prev">
+										<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+										<span class="visually-hidden">Previous</span>
+									</button>
+									<button class="carousel-control-next" type="button" data-bs-target="#@p.Id" data-bs-slide="next">
+										<span class="carousel-control-next-icon" aria-hidden="true"></span>
+										<span class="visually-hidden">Next</span>
+									</button>
+								}
+							</div>
+
+
+						}
+
+
+
+						<div class="m-0">
+							<button class="btn btn-icon btn-color-gray-400 btn-active-color-primary justify-content-end"
+								data-kt-menu-trigger="click"
+								data-kt-menu-placement="bottom-end"
+								data-kt-menu-overflow="true">
+								<i class="ki-duotone ki-dots-square fs-1"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></i>
+							</button>
+
+							@*Start Of Hidden Menu*@
+							<div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold w-200px" data-kt-menu="true">
+								<div class="menu-item px-3">
+									<div class="menu-content fs-6 text-dark fw-bold px-3 py-4">Quick Actions</div>
+								</div>
+								<div class="separator mb-3 opacity-100"></div>
+								@*Start Of Edit Sub-Menu*@
+								<div class="container">
+									<div class="row">
+										<div class="menu-item px-3 col-9">
+											<a asp-controller="Products" asp-action="EditProduct" asp-route-id="@p.Id" class="menu-link px-3">
+												<span class="menu-title">Edit</span>
+											</a>
+										</div>
+
+										<div class="px-3 col-3" data-kt-menu-trigger="hover" data-kt-menu-placement="right-start">
+											<div class="menu-item">
+												<i class="ki-duotone ki-pencil fs-7" style="font-size: 1.4rem!important;"><span class="path1"></span><span class="path2"></span></i>
+											</div>
+
+
+											@*Sub Menu of Edit*@
+											<div class="menu-sub menu-sub-dropdown w-175px py-4">
+
+												@*Edit Name*@
+												<div class="menu-item px-3">
+													<div class="menu-item px-3" data-kt-menu-trigger="hover" data-kt-menu-placement="right-start">
+														<p class="menu-link px-3">
+															<span class="menu-title">Edit name</span>
+															<span class="menu-arrow"></span>
+														</p>
+														@*Sub Menu of Edit Name*@
+
+														<div class="menu-sub menu-sub-dropdown py-4 ">
+															<label class="control-label required form-label ms-5">New Name</label>
+															<div class="container">
+																<div class="row">
+																	<div class="col-9">
+																		<input style="width:100%" type="text" class="form-control nameInput m-2" data-id="@p.Id" name="name" value="@p.Name">
+																	</div>
+																	<div class="col-3 p-0 m-0">
+																		<div class="mt-4">
+																			<span style=" border-left-width: 0px; padding-left: 0px; margin-left: 0px; width: 20px; height: 20px;" data-id="@p.Id" class="changeNameButton btn btn-icon btn-color-gray-400 btn-active-color-primary">
+																				<i style="font-size: 1.4rem!important;" class="ki-duotone ki-pencil fs-7"><span class="path1"></span><span class="path2"></span></i>
+																			</span>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+
+
+												@*Edit Price*@
+												<div class="menu-item px-3">
+													<div class="menu-item px-3" data-kt-menu-trigger="hover" data-kt-menu-placement="right-start">
+														<p class="menu-link px-3">
+															<span class="menu-title">Edit Price</span>
+															<span class="menu-arrow"></span>
+														</p>
+														@*Sub Menu of Edit Name*@
+
+														<div class="menu-sub menu-sub-dropdown py-4 ">
+															<label class="control-label required form-label ms-5">New Price</label>
+															<div class="container">
+																<div class="row">
+																	<div class="col-9">
+																		<input style="width:100%" type="number" class="form-control priceInput m-2" data-id="@p.Id" name="price" value="@p.Price">
+																	</div>
+																	<div class="col-3 p-0 m-0">
+																		<div class="mt-4">
+																			<span style=" border-left-width: 0px; padding-left: 0px; margin-left: 0px; width: 20px; height: 20px;" data-id="@p.Id" class="changePriceButton btn btn-icon btn-color-gray-400 btn-active-color-primary">
+																				<i style="font-size: 1.4rem!important;" class="ki-duotone ki-pencil fs-7"><span class="path1"></span><span class="path2"></span></i>
+																			</span>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+								<div data-id="@p.Id" class="DeleteButton menu-item px-3">
+									<p class="menu-link px-3">
+										Delete
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			}
+
+
+		</div>
+	</div>
+</div>
+
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		const changeButtons = document.querySelectorAll(".changeNameButton");
+		const changePriceButtons = document.querySelectorAll(".changePriceButton");
+		const deleteButtons = document.querySelectorAll(".DeleteButton");
+
+		changeButtons.forEach(function (changeButton) {
+			console.log("I am in foreach");
+			changeButton.addEventListener("click", function () {
+				console.log("I am in Clcik");
+				const parentDiv = this.closest('.menu-sub');
+				const nameInput = parentDiv.querySelector('.nameInput');
+				const newName = nameInput.value;
+				const dataId = nameInput.getAttribute("data-id");
+
+
+				if (newName !== "") {
+					console.log("I am in before fetch");
+					console.log(`New Name: ${newName}, Data Id: ${dataId}`);
+
+					fetch(`/Admin/Products/ChangeName?&id=${dataId}&name=${newName}`, {
+						method: "POST",
+						headers: { "Content-Type": "application/json" },
+						body: JSON.stringify({ name: newName, id: dataId })
+					})
+						.then(response => response.json())
+						.then(data => {
+							if (data.success) {
+
+								const names = document.querySelectorAll(".ProductName");
+								names.forEach(function (name) {
+									if (name.getAttribute("data-id") == dataId)
+										name.textContent = newName;
+								});
+
+							} else {
+								alert("Failed to change name!");
+							}
+						})
+						.catch((error) => {
+							console.error("Error:", error);
+						});
+				}
+			});
+		});
+
+
+		changePriceButtons.forEach(function (changeButton) {
+			console.log("I am in foreach");
+			changeButton.addEventListener("click", function () {
+				console.log("I am in Click");
+				const parentDiv = this.closest('.menu-sub');
+				const priceInput = parentDiv.querySelector('.priceInput');
+				const newprice = priceInput.value;
+				const dataId = priceInput.getAttribute("data-id");
+
+				if (newprice !== "") {
+					console.log("I am in before fetch");
+					console.log(`New price: ${newprice}, Data Id: ${dataId}`);
+
+					fetch(`/Admin/Products/ChangePrice?&id=${dataId}&price=${newprice}`, {
+						method: "POST",
+						headers: { "Content-Type": "application/json" },
+						body: JSON.stringify({ price: newprice, id: dataId })
+					})
+						.then(response => response.json())
+						.then(data => {
+							if (data.success) {
+								const prices = document.querySelectorAll(".ProductPrice");
+								prices.forEach(function (price) {
+									if (price.getAttribute("data-id") === dataId) {
+										let newPriceValue = parseFloat(newprice);
+										if (isNaN(newPriceValue)) {
+											alert("Error NaN");
+										} else {
+											price.textContent = "$" + newPriceValue.toFixed(2);
+											alert("Price changed successfully! => " + newprice);
+										}
+									}
+								});
+							} else {
+								alert("Failed to change price!");
+							}
+						})
+						.catch((error) => {
+							console.error("Error:", error);
+						});
+				}
+			});
+		});
+
+
+
+		deleteButtons.forEach(function (deleteButton) {
+			console.log("I am in foreach");
+			deleteButton.addEventListener("click", function () {
+				console.log("I am in Click");
+				
+
+				const dataId = this.getAttribute("data-id");
+
+				if (dataId !== "") {
+					console.log("I am in before fetch");
+
+					fetch(`/Admin/Products/DeleteAjax?&id=${dataId}`, {
+						method: "POST",
+						headers: { "Content-Type": "application/json" },
+					})
+						.then(response => response.json())
+						.then(data => {
+							if (data.success) {
+								const products = document.querySelectorAll(".Product");
+								products.forEach(function (p) {
+									if (p.getAttribute("data-id") === dataId) {
+										p.style.display = 'none';
+										alert("Product Deleted!");
+									}
+								});
+							} else {
+								alert("Failed to change price!");
+							}
+						})
+						.catch((error) => {
+							console.error("Error:", error);
+						});
+				}
+			});
+		});
+
+	});
+</script>

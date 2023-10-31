@@ -1,0 +1,41 @@
+﻿@model IEnumerable<IdentityRole>
+
+
+<h1>Roles Area</h1>
+<a asp-area="Admin" asp-controller="Roles" asp-action="Create" >Add New Role</a>
+
+<table class="table table-bordered">
+	<tr class="bg-primary text-center text-white">
+		<th>Id</th>
+		<th>Name</th>
+		<th>Members</th>
+		<th>Edit</th>
+		<th>Delete</th>
+	</tr>
+
+	@if (Model.Count() == 0)
+	{
+		<tr>
+			<td colspan="5">
+				No Roles
+			</td>
+		</tr>
+	}
+	else
+	{
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.Name</td>
+				<td>Members</td>
+				<td>
+					<a asp-area="Admin" asp-controller="Roles" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+				</td>
+				<td>
+					<a asp-area="Admin" asp-controller="Roles" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	}
+</table>

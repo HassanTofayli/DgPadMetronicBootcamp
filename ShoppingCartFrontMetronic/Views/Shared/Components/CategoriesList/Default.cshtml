@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Category>
+
+
+
+@foreach (var c in Model)
+{
+	<a asp-controller="Category" asp-action="CategoryType" asp-route-id="@c.Id">
+	<div class="product-wrapper">
+		<div class="product-container">
+			<img src="~/media/CategoriesThumbnail/@c.ThumbnailImage" class="product-top">
+			<div class="product-bottom">
+				<div class="product-left">
+					<div class="product-details">
+						<h1 class="product-title" style="font-size:1.3rem">@c.Name</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	</a>
+}
+
+@*
+@if(ViewBag.Cart != null)
+{
+	<script>
+		var cartItems = @Html.Raw(Json.Serialize(ViewBag.Cart));
+		console.log("I am after HTML Raw!!");
+
+
+		cartItems.forEach(function(item) {
+
+			console.log("I am in foreach!!");
+			var elements = document.querySelectorAll('.product-buy');
+
+
+			elements.forEach(function(element) {
+			  var dataId = element.getAttribute('data-id');
+			  console.log("dataId: "+dataId);
+				console.log("ProductId: " + item.productId);
+				console.log("item: " + JSON.stringify(item));
+
+				if (dataId == item.productId) {
+					element.closest('.product-bottom').classList.add("product-clicked");
+					console.log('Match found:', element);
+			  }
+			});
+
+		})
+	</script>
+}*@
+

@@ -1,0 +1,135 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>MetronicAdmin - The World's #1 Selling Bootstrap Admin Template - Metronic by KeenThemes</title>
+	<meta charset="utf-8" />
+	<meta name="description" content="
+			The most advanced Bootstrap 5 Admin Theme with 40 unique prebuilt layouts on Themeforest trusted by 100,000 beginners and professionals. Multi-demo,
+			Dark Mode, RTL support and complete React, Angular, Vue, Asp.Net Core, Rails, Spring, Blazor, Django, Express.js, Node.js, Flask, Symfony & Laravel versions.
+			Grab your copy now and get life-time updates for free.
+		" />
+	<meta name="keywords" content="
+			metronic, bootstrap, bootstrap 5, angular, VueJs, React, Asp.Net Core, Rails, Spring, Blazor, Django, Express.js,
+			Node.js, Flask, Symfony & Laravel starter kits, admin themes, web design, figma, web development, free templates,
+			free admin themes, bootstrap theme, bootstrap template, bootstrap dashboard, bootstrap dak mode, bootstrap button,
+			bootstrap datepicker, bootstrap timepicker, fullcalendar, datatables, flaticon
+		" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Metronic - The World's #1 Selling Bootstrap Admin Template - Metronic by KeenThemes" />
+	<meta property="og:url" content="https://keenthemes.com/metronic" />
+	<meta property="og:site_name" content="Metronic by Keenthemes" />
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
+	<link rel="shortcut icon" href="~/metronic/media/logos/favicon.ico" />
+
+	@*<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tagify@4.3.0/dist/tagify.css">*@
+	<link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.9.3/dropzone.min.css" rel="stylesheet">
+
+
+	<link href="~/metronic/plugins/custom/datatables/datatables.bundle.css" rel="stylesheet" type="text/css" />
+	<link href="~/metronic/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+	<link href="~/metronic/css/style.bundle.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+	@*<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37564768-1"></script>*@
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'UA-37564768-1');
+	</script>
+	<!--end::Google tag-->
+	<script>
+		// Frame-busting to prevent site from being loaded within a frame without permission (click-jacking)
+		if (window.top != window.self) {
+			//window.top.location.replace(window.self.location.href);
+		}
+	</script>
+
+	<link href="~/css/site.css" rel="stylesheet" />
+
+
+</head>
+<!--end::Head-->
+<!--begin::Body-->
+<body id="kt_app_body" data-kt-app-layout="dark-sidebar" data-kt-app-header-fixed="true" data-kt-app-sidebar-enabled="true" data-kt-app-sidebar-fixed="true" data-kt-app-sidebar-hoverable="true" data-kt-app-sidebar-push-header="true" data-kt-app-sidebar-push-toolbar="true" data-kt-app-sidebar-push-footer="true" data-kt-app-toolbar-enabled="true" class="app-default">
+
+	<div class="d-flex flex-column flex-root app-root" id="kt_app_root">
+		<div class="app-page  flex-column flex-column-fluid " id="kt_app_page">
+			<div id="kt_app_header" class="app-header " data-kt-sticky="true" data-kt-sticky-activate="{default: true, lg: true}" data-kt-sticky-name="app-header-minimize" data-kt-sticky-offset="{default: '200px', lg: '0'}" data-kt-sticky-animation="false" style>
+				<partial name="_Header" />
+			</div>
+			<div id="kt_app_sidebar" class="app-sidebar flex-column" data-kt-drawer="true" data-kt-drawer-name="app-sidebar" data-kt-drawer-activate="{default: true, lg: false}" data-kt-drawer-overlay="true" data-kt-drawer-width="225px" data-kt-drawer-direction="start" data-kt-drawer-toggle="#kt_app_sidebar_mobile_toggle">
+				<partial name="_SideBar" />
+			</div>
+			<div class="app-main flex-column flex-row-fluid " id="kt_app_main">
+				<div class="container">
+					<main role="main" class="pb-3">
+						<div class="d-flex flex-column flex-root app-root" id="kt_app_root">
+							<div class="app-page  flex-column flex-column-fluid " id="kt_app_page">
+								<div class="app-wrapper  flex-column flex-row-fluid " id="kt_app_wrapper">
+									<div class="app-main flex-column flex-row-fluid " id="kt_app_main">
+										<div class="d-flex flex-column flex-column-fluid">
+											<div id="kt_app_content" class="app-content  flex-column-fluid ">
+												<div id="kt_app_content_container" class="app-container  container-xxl ">
+													@RenderBody()
+												</div>
+											</div>
+										</div>
+									</div>
+									<div id="kt_app_footer" class="app-footer ">
+										<div class="app-container  container-fluid d-flex flex-column flex-md-row flex-center flex-md-stack py-3 ">
+											<div class="text-dark order-2 order-md-1">
+												<span class="text-muted fw-semibold me-1">2023&copy;</span>
+												<a href="https://keenthemes.com/" target="_blank" class="text-gray-800 text-hover-primary">Keenthemes</a>
+											</div>
+											<ul class="menu menu-gray-600 menu-hover-primary fw-semibold order-1">
+												<li class="menu-item"><a href="https://keenthemes.com/" target="_blank" class="menu-link px-2">About</a></li>
+												<li class="menu-item"><a href="https://devs.keenthemes.com/" target="_blank" class="menu-link px-2">Support</a></li>
+												<li class="menu-item"><a href="https://1.envato.market/EA4JP" target="_blank" class="menu-link px-2">Purchase</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</main>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div id="kt_drawer_chat" class="bg-body drawer drawer-end drawer-on header-chat-display-none" style="display:none !important" data-kt-drawer="true" data-kt-drawer-name="chat" data-kt-drawer-activate="true" data-kt-drawer-overlay="true" data-kt-drawer-width="{default:'300px', 'md': '500px'}" data-kt-drawer-direction="end" data-kt-drawer-toggle="#kt_drawer_chat_toggle" data-kt-drawer-close="#kt_drawer_chat_close" style="width: 500px !important;">
+		<iframe src="https://www.chatbase.co/chatbot-iframe/8TcmKMiph21AnGHtyi7Ga"
+				width="100%"
+				style="height: 100%; min-height: 700px"
+				frameborder="0"></iframe>
+	</div>
+
+
+	<script src="~/metronic/plugins/global/plugins.bundle.js"></script>
+	<script src="~/metronic/js/scripts.bundle.js"></script>
+	<script src="~/metronic/plugins/custom/datatables/datatables.bundle.js"></script>
+	@*<script src="/metronic8/demo1/assets/plugins/custom/formrepeater/formrepeater.bundle.js"></script>*@
+	<script src="~/metronic/js/custom/pages/user-profile/general.js"></script>
+	<script src="~/metronic/js/widgets.bundle.js"></script>
+	<script src="~/metronic/js/custom/widgets.js"></script>
+
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+	@*<script src="https://cdn.jsdelivr.net/npm/tagify@4.3.0/dist/tagify.min.js"></script>*@
+
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

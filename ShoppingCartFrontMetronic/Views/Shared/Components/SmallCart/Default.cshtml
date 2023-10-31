@@ -1,0 +1,89 @@
+﻿@model SmallCartViewModel
+
+
+<div class="card card-flush h-xl-100">
+	<div class="card-header pt-7">
+		<h3 class="card-title align-items-start flex-column">
+			<span class="card-label fw-bold text-dark">Product Delivery</span>
+			<span class="text-gray-400 mt-1 fw-semibold fs-6">1M Products Shipped so far</span>
+		</h3>
+		<div class="card-toolbar">
+			<a href="/Cart" class="btn btn-sm btn-light">Order Details</a>
+		</div>
+	</div>
+	<div class="card-body">
+		<div class="hover-scroll-overlay-y pe-6 me-n6" style="height: 415px">
+
+			<div class="card mb-5 mb-xl-10 " id="small-cart-container">
+
+				@if (Model != null)
+				{
+					@foreach (var item in Model.CartItems)
+					{
+
+						<div class="border border-dashed border-gray-300 rounded px-7 py-3 mb-6 small-cart-item" data-id="@item.ProductId">
+							<div class="d-flex flex-stack mb-3">
+								<div class="me-3">
+									<img src="~/media/products/@item.Image" class="w-50px ms-n1 me-1" alt="" />
+									<p class="text-gray-800 text-hover-primary fw-bold">@item.ProductName</p>
+								</div>
+								<div class="m-0">
+									<button class="btn btn-icon btn-color-gray-400 btn-active-color-primary justify-content-end"
+									data-kt-menu-trigger="click"
+									data-kt-menu-placement="bottom-end"
+									data-kt-menu-overflow="true">
+										<i class="ki-duotone ki-dots-square fs-1"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></i>
+									</button>
+									<div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold w-200px small-cart-submenu" data-id="@item.ProductId" data-kt-menu="true">
+										<div class="menu-item px-3">
+											<div class="menu-content fs-6 text-dark fw-bold px-3 py-4">Quick Actions</div>
+										</div>
+										<div class="separator mb-3 opacity-75"></div>
+										<div class="menu-item px-3">
+											<p class="menu-link px-3 cart-item-increase" data-id="@item.ProductId">
+												Increase
+											</p>
+										</div>
+										<div class="menu-item px-3">
+											<p class="menu-link px-3 cart-item-decrease" data-id="@item.ProductId">
+												Decrease
+											</p>
+										</div>
+										
+
+										<div class="separator mt-3 opacity-75"></div>
+										<div class="menu-item px-3">
+											<div class="menu-content px-3 py-3">
+												<p class="btn btn-danger  btn-sm px-4 small-cart-remove product-remove" data-id="@item.ProductId">
+													Remove
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="d-flex flex-stack">
+								<span class="text-gray-400 fw-bold">
+									Price:
+									<p  class="text-gray-800 text-hover-primary fw-bold">
+										@item.Price.ToString("C2")
+									</p>
+								</span>
+								<span class="badge badge-light-primary cart-item-quantity" data-id="@item.ProductId">@item.Quantity</span>
+							</div>
+						</div>
+					}
+				}
+
+			</div>
+			<span class="text-gray-400 fw-bold">
+				Total Price:
+				<p class="text-gray-800 text-hover-primary fw-bold " id="small-cart-sum">
+					@ViewBag.sum.ToString("C2")
+				</p>
+			</span>
+		</div>
+	</div>
+</div>
+
+

@@ -1,0 +1,289 @@
+﻿@model IEnumerable<Product>
+<div class="d-flex flex-column flex-column-fluid">
+	<!--begin::Toolbar-->
+	<div id="kt_app_toolbar" class="app-toolbar  py-3 py-lg-6 ">
+		<!--begin::Toolbar container-->
+		<div id="kt_app_toolbar_container" class="app-container  container-xxl d-flex flex-stack ">
+			<!--begin::Page title-->
+			<div class="page-title d-flex flex-column justify-content-center flex-wrap me-3 ">
+				<!--begin::Title-->
+				<h1 class="page-heading d-flex text-gray-900 fw-bold fs-3 flex-column justify-content-center my-0">
+					Horizontal
+				</h1>
+				<!--end::Title-->
+				<!--begin::Breadcrumb-->
+				<ul class="breadcrumb breadcrumb-separatorless fw-semibold fs-7 my-0 pt-1">
+					<!--begin::Item-->
+					<li class="breadcrumb-item text-muted">
+						<a href="/" class="text-muted text-hover-primary">
+							Home
+						</a>
+					</li>
+					<!--end::Item-->
+					
+					<!--begin::Item-->
+					<li class="breadcrumb-item">
+						<span class="bullet bg-gray-500 w-5px h-2px"></span>
+					</li>
+					<!--end::Item-->
+					<!--begin::Item-->
+					<li class="breadcrumb-item text-muted">
+						Search
+					</li>
+					<!--end::Item-->
+				</ul>
+				<!--end::Breadcrumb-->
+			</div>
+			<!--end::Page title-->
+
+		</div>
+		<!--end::Toolbar container-->
+	</div>
+	<!--end::Toolbar-->
+	<!--begin::Content-->
+	<div id="kt_app_content" class="app-content  flex-column-fluid ">
+		<!--begin::Content container-->
+		<div id="kt_app_content_container" class="app-container  container-xxl ">
+			<!--begin::Form-->
+			<form asp-action="Search">
+				<!--begin::Card-->
+				<div class="card mb-7">
+					<!--begin::Card body-->
+					<div class="card-body">
+						<!--begin::Compact form-->
+						<div class="d-flex align-items-center">
+							<!--begin::Input group-->
+							<div class="position-relative w-md-400px me-md-2">
+								<i class="ki-duotone ki-magnifier fs-3 text-gray-500 position-absolute top-50 translate-middle ms-6"><span class="path1"></span><span class="path2"></span></i>
+								<input type="text" class="form-control form-control-solid ps-10" name="search" value="@ViewBag.search">
+							</div>
+							<!--end::Input group-->
+							<!--begin:Action-->
+							<div class="d-flex align-items-center">
+								<button type="submit" class="btn btn-primary me-5">Search</button>
+							</div>
+							<!--end:Action-->
+						</div>
+						<!--end::Compact form-->
+
+					</div>
+					<!--end::Card body-->
+				</div>
+				<!--end::Card-->
+			</form>
+			<!--end::Form-->
+			<!--begin::Toolbar-->
+			<div class="d-flex flex-wrap flex-stack pb-7">
+				<!--begin::Title-->
+				<div class="d-flex flex-wrap align-items-center my-1">
+					<h3 class="fw-bold me-5 my-1">
+						@Model.Count() Items Found
+						<span class="text-gray-500 fs-6">by Recent Updates ↓</span>
+					</h3>
+				</div>
+				<!--end::Title-->
+				<!--begin::Controls-->
+				<div class="d-flex flex-wrap my-1">
+					<!--begin::Tab nav-->
+					<ul class="nav nav-pills me-6 mb-2 mb-sm-0" role="tablist">
+						<li class="nav-item m-0" role="presentation">
+							<a class="btn btn-sm btn-icon btn-light btn-color-muted btn-active-primary me-3 active" data-bs-toggle="tab" href="#kt_project_users_card_pane" aria-selected="true" role="tab">
+								<i class="ki-duotone ki-element-plus fs-2"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span></i>
+							</a>
+						</li>
+						<li class="nav-item m-0" role="presentation">
+							<a class="btn btn-sm btn-icon btn-light btn-color-muted btn-active-primary" data-bs-toggle="tab" href="#kt_project_users_table_pane" aria-selected="false" tabindex="-1" role="tab">
+								<i class="ki-duotone ki-row-horizontal fs-2"><span class="path1"></span><span class="path2"></span></i>
+							</a>
+						</li>
+					</ul>
+					<!--end::Tab nav-->
+
+				</div>
+				<!--end::Controls-->
+			</div>
+			<!--end::Toolbar-->
+			<!--begin::Tab Content-->
+			<div class="tab-content">
+				<!--begin::Tab pane-->
+				<div id="kt_project_users_card_pane" class="tab-pane fade show active" role="tabpanel">
+					<!--begin::Row-->
+					<div class="row">
+
+						@foreach (var p in Model)
+						{
+							<div class="product-wrapper">
+								<div class="product-container">
+									<img src="~/media/products/@p.ThumbnailImage" class="product-top">
+									<div class="product-bottom" data-id="@p.Id">
+										<div class="product-left">
+											<div class="product-details">
+												<h1 class="product-title">@p.Name</h1>
+												<p>@p.Price.ToString("C2")</p>
+											</div>
+											<div data-id="@p.Id" class="product-buy"><i class="material-icons">add_shopping_cart</i></div>
+										</div>
+										<div class="product-right">
+											<div class="product-done"><i class="material-icons">done</i></div>
+											<div class="product-details">
+												<h1 class="product-title">@p.Name</h1>
+												<p>Added to your cart</p>
+											</div>
+											<div data-id="@p.Id" class="product-remove"><i class="material-icons">clear</i></div>
+										</div>
+									</div>
+								</div>
+								<div class="inside">
+									<div class="product-icon"><i class="material-icons">info_outline</i></div>
+									<div class="product-contents">
+										<table>
+											<tr>
+												<th>Description</th>
+												<th></th>
+											</tr>
+											<tr>
+												<td>@p.Description</td>
+												<td>4000mm</td>
+											</tr>
+											<tr>
+												<th>Something</th>
+												<th>Something</th>
+											</tr>
+											<tr>
+												<td>200mm</td>
+												<td>200mm</td>
+											</tr>
+											<tr>
+												<th>Something</th>
+												<th>Something</th>
+											</tr>
+											<tr>
+												<td>200mm</td>
+												<td>200mm</td>
+											</tr>
+											<tr>
+												<th>Something</th>
+												<th>Something</th>
+											</tr>
+											<tr>
+												<td>200mm</td>
+												<td>200mm</td>
+											</tr>
+										</table>
+									</div>
+								</div>
+							</div>
+						}
+
+
+						@if (ViewBag.Cart != null)
+						{
+							<script>
+								var cartItems = @Html.Raw(Json.Serialize(ViewBag.Cart));
+
+
+								cartItems.forEach(function (item) {
+
+									var elements = document.querySelectorAll('.product-buy');
+
+
+									elements.forEach(function (element) {
+										var dataId = element.getAttribute('data-id');
+
+										if (dataId == item.productId) {
+											element.closest('.product-bottom').classList.add("product-clicked");
+										}
+									});
+
+								})
+							</script>
+						}
+
+
+					</div>
+					<!--end::Row-->
+
+				</div>
+				<!--end::Tab pane-->
+				<!--begin::Tab pane-->
+				<div id="kt_project_users_table_pane" class="tab-pane fade" role="tabpanel">
+					<!--begin::Card-->
+					<div class="card card-flush ">
+						<!--begin::Card body-->
+						<div class="card-body pt-0">
+							<!--begin::Table container-->
+							<div class="table-responsive">
+								<!--begin::Table-->
+								<div id="kt_project_users_table_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+									<div class="table-responsive">
+										<table id="kt_project_users_table" class="table table-row-bordered table-row-dashed gy-4 align-middle fw-bold dataTable no-footer">
+											<thead class="fs-7 text-gray-500 text-uppercase">
+												<tr>
+													<th class="min-w-250px sorting" tabindex="0" aria-controls="kt_project_users_table" rowspan="1" colspan="1" aria-label="Manager: activate to sort column ascending" style="width: 0px;">Name</th>
+													<th class="min-w-150px sorting" tabindex="0" aria-controls="kt_project_users_table" rowspan="1" colspan="1" aria-label="Date: activate to sort column ascending" style="width: 0px;">Price</th>
+													<th class="min-w-90px sorting" tabindex="0" aria-controls="kt_project_users_table" rowspan="1" colspan="1" aria-label="Amount: activate to sort column ascending" style="width: 0px;">Description</th>
+													<th class="min-w-50px text-end sorting_disabled" rowspan="1" colspan="1" aria-label="Details" style="width: 0px;">Details</th>
+												</tr>
+											</thead>
+											<tbody class="fs-6">
+												@{
+													int i = 0;
+													foreach (var p in Model)
+													{
+														var rowClass = (i % 2 == 0) ? "even" : "odd";
+														i++;
+														<tr class="@rowClass">
+															<td>
+																<!--begin::User-->
+																<div class="d-flex align-items-center">
+																	<!--begin::Wrapper-->
+																	<div class="me-5 position-relative">
+																		<!--begin::Avatar-->
+																		<div class="symbol symbol-35px symbol-circle">
+																			<img alt="Pic" src="/media/products/@p.ThumbnailImage">
+																		</div>
+																		<!--end::Avatar-->
+																	</div>
+																	<!--end::Wrapper-->
+																	<!--begin::Info-->
+																	<div class="d-flex flex-column justify-content-center">
+																		<a href="" class="mb-1 text-gray-800 text-hover-primary">@p.Name</a>
+																	</div>
+																	<!--end::Info-->
+																</div>
+																<!--end::User-->
+															</td>
+															<td data-order="2023-05-05T00:00:00+03:00">@p.Price</td>
+															<td>@p.Description</td>
+
+															<td class="text-end">
+																<div class="product-bottom" data-id="@p.Id">
+
+																	<div style="cursor:pointer;padding: 10px;" data-id="@p.Id" class="product-buy btn btn-primary"><i style="font-size: 2rem;" class="material-icons">add_shopping_cart</i></div>
+
+																	<div style="cursor:pointer;padding: 10px;" data-id="@p.Id" class="product-remove btn btn-secondary"><i style="font-size: 2rem;" class="material-icons">clear</i></div>
+																</div>
+															</td>
+														</tr>
+													}
+												}
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<!--end::Table-->
+							</div>
+							<!--end::Table container-->
+						</div>
+						<!--end::Card body-->
+					</div>
+					<!--end::Card-->
+				</div>
+				<!--end::Tab pane-->
+			</div>
+			<!--end::Tab Content-->
+		</div>
+		<!--end::Content container-->
+	</div>
+	<!--end::Content-->
+</div>

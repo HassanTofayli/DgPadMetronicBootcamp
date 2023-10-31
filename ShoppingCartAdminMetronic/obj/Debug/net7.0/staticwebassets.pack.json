@@ -1,0 +1,2073 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingCartAdminMetronic.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCartAdminMetronic.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\css\\css.css",
+      "PackagePath": "staticwebassets\\css\\css.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\css\\datatables.bundle.css",
+      "PackagePath": "staticwebassets\\css\\datatables.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\css\\fullcalendar.bundle.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\css\\plugins.bundle.css",
+      "PackagePath": "staticwebassets\\css\\plugins.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\css\\style.bundle.css",
+      "PackagePath": "staticwebassets\\css\\style.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\001fd917-0b27-41d5-882e-3351fd234098_OIG.jpeg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\001fd917-0b27-41d5-882e-3351fd234098_OIG.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\4d1c76e7-0cd2-40da-badf-0b0705743d4f_7429940.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\4d1c76e7-0cd2-40da-badf-0b0705743d4f_7429940.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\6d1a65b0-9003-417d-bad6-3cc80a957953_OIG.jpeg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\6d1a65b0-9003-417d-bad6-3cc80a957953_OIG.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\apple.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\beauty.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\beauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\books.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\books.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\buttondown.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\buttondown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\electronics.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\electronics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\furniture.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\garden.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\garden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\kitchen.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\kitchen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\musical-instruments.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\musical-instruments.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\shoes.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\sports.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\sports.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\stationery.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\stationery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\tools.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\tools.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\CategoriesThumbnail\\toys.jpg",
+      "PackagePath": "staticwebassets\\media\\CategoriesThumbnail\\toys.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\2dcf6222-7470-4a5b-91de-e72d6fd269a1_Miniline-Transparent.png",
+      "PackagePath": "staticwebassets\\media\\products\\2dcf6222-7470-4a5b-91de-e72d6fd269a1_Miniline-Transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\4b05aa20-82dd-4a5d-bfe5-2fc4fdab74ab_Spiral_Conveyor.png",
+      "PackagePath": "staticwebassets\\media\\products\\4b05aa20-82dd-4a5d-bfe5-2fc4fdab74ab_Spiral_Conveyor.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\571bc9ff-b369-4fee-9995-bd67c64885eb_w.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\571bc9ff-b369-4fee-9995-bd67c64885eb_w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\5c1fb046-ce1e-47c6-ba9f-44e8dc7d6377_download.png",
+      "PackagePath": "staticwebassets\\media\\products\\5c1fb046-ce1e-47c6-ba9f-44e8dc7d6377_download.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\787192a1-d817-41f5-b281-27e9e7a295ea_Spiral_Conveyor.png",
+      "PackagePath": "staticwebassets\\media\\products\\787192a1-d817-41f5-b281-27e9e7a295ea_Spiral_Conveyor.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\82af0d6d-f4f1-4f6f-8656-988c8ad7039b_featured image test3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\82af0d6d-f4f1-4f6f-8656-988c8ad7039b_featured image test3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\8c9f5f07-6532-455c-9ada-3599fda0289e_Miniline.png",
+      "PackagePath": "staticwebassets\\media\\products\\8c9f5f07-6532-455c-9ada-3599fda0289e_Miniline.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\apple.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\b259b9a6-82f3-423f-b1bf-a04211360906_7429940.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b259b9a6-82f3-423f-b1bf-a04211360906_7429940.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\b84e9a16-1672-47d0-b36e-ee7465007282_Miniline-Transparent.png",
+      "PackagePath": "staticwebassets\\media\\products\\b84e9a16-1672-47d0-b36e-ee7465007282_Miniline-Transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\banana.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\banana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\blueberry.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\blueberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\buttondown.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\buttondown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\c12733a3-506d-4477-87ce-5edb66aee338_OIG.jpeg",
+      "PackagePath": "staticwebassets\\media\\products\\c12733a3-506d-4477-87ce-5edb66aee338_OIG.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\grape.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\grape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\longsleeve.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\longsleeve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\noimage.png",
+      "PackagePath": "staticwebassets\\media\\products\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\orange.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\pineapple.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\pineapple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\pink shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\pink shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\polo.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\polo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\strawberry.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\strawberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\tanktop.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\tanktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\tshirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\media\\products\\yellow shirt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\yellow shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\css\\style.bundle.css",
+      "PackagePath": "staticwebassets\\metronic\\css\\style.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\api-keys\\api-keys.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\api-keys\\api-keys.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\billing\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\billing\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\referrals\\referral-program.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\referrals\\referral-program.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\security\\license-usage.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\security\\license-usage.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\security\\security-summary.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\security\\security-summary.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\settings\\deactivate-account.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\settings\\deactivate-account.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\settings\\profile-details.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\settings\\profile-details.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\account\\settings\\signin-methods.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\account\\settings\\signin-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\chat\\chat.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\chat\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\contacts\\edit-contact.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\contacts\\edit-contact.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\contacts\\view-contact.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\contacts\\view-contact.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\categories.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\categories.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\products.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\save-category.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\save-category.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\save-product.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\catalog\\save-product.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\add-address.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\add-address.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\add-auth-app.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\add-auth-app.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\add-one-time-password.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\add-one-time-password.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\transaction-history.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\transaction-history.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-address.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-address.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-password.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-password.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-phone.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-phone.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-profile.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\details\\update-profile.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\listing\\add.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\listing\\add.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\listing\\export.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\listing\\export.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\customers\\listing\\listing.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\customers\\listing\\listing.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\reports\\customer-orders\\customer-orders.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\reports\\customer-orders\\customer-orders.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\reports\\returns\\returns.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\reports\\returns\\returns.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\reports\\sales\\sales.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\reports\\sales\\sales.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\reports\\shipping\\shipping.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\reports\\shipping\\shipping.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\reports\\views\\views.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\reports\\views\\views.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\sales\\listing.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\sales\\listing.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\sales\\save-order.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\sales\\save-order.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\ecommerce\\settings\\settings.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\ecommerce\\settings\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\projects\\list\\list.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\projects\\list\\list.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\projects\\project\\project.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\projects\\project\\project.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\projects\\settings\\settings.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\projects\\settings\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\projects\\targets\\targets.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\projects\\targets\\targets.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\projects\\users\\users.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\projects\\users\\users.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\subscriptions\\list\\export.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\subscriptions\\list\\export.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\subscriptions\\list\\list.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\subscriptions\\list\\list.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\support-center\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\support-center\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\support-center\\tickets\\create.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\support-center\\tickets\\create.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\permissions\\add-permission.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\permissions\\add-permission.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\permissions\\list.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\permissions\\list.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\permissions\\update-permission.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\permissions\\update-permission.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\roles\\list\\add.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\roles\\list\\add.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\roles\\list\\update-role.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\roles\\list\\update-role.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\roles\\view\\update-role.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\roles\\view\\update-role.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\roles\\view\\view.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\roles\\view\\view.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\list\\add.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\list\\add.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\list\\export-users.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\list\\export-users.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\list\\table.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\list\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-auth-app.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-auth-app.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-one-time-password.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-one-time-password.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-schedule.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-schedule.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-task.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\add-task.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-details.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-details.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-email.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-email.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-password.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-password.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-role.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\update-role.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\apps\\user-management\\users\\view\\view.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\apps\\user-management\\users\\view\\view.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\reset-password\\new-password.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\reset-password\\new-password.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\reset-password\\reset-password.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\reset-password\\reset-password.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\sign-in\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\sign-in\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\sign-in\\i18n.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\sign-in\\i18n.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\sign-in\\two-factor.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\sign-in\\two-factor.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\sign-up\\coming-soon.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\sign-up\\coming-soon.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\authentication\\sign-up\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\authentication\\sign-up\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\landing.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\landing.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\pages\\careers\\apply.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\careers\\apply.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\pages\\general\\contact.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\general\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\pages\\general\\pos.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\general\\pos.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\pages\\pricing\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\pricing\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\pages\\social\\feeds.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\social\\feeds.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\pages\\user-profile\\general.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\pages\\user-profile\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\bidding.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\bidding.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-account.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-account.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-api-key.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-api-key.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-app.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-app.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-campaign.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-campaign.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\budget.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\budget.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\complete.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\complete.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\files.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\files.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\main.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\settings.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\targets.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\targets.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\team.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\team.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\create-project\\type.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\create-project\\type.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\new-address.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\new-address.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\new-card.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\new-card.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\new-target.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\new-target.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\complete.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\complete.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\details.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\details.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\finance.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\finance.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\main.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\type.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\offer-a-deal\\type.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\select-location.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\select-location.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\share-earn.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\share-earn.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\top-up-wallet.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\top-up-wallet.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\two-factor-authentication.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\two-factor-authentication.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\upgrade-plan.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\upgrade-plan.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\modals\\users-search.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\modals\\users-search.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\utilities\\search\\horizontal.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\utilities\\search\\horizontal.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\custom\\widgets.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\custom\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\scripts.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\scripts.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\js\\widgets.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\js\\widgets.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\404-error-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\404-error-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\404-error.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\404-error.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\500-error-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\500-error-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\500-error.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\500-error.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\agency-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\agency-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\agency.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\agency.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg1-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg1-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg1.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg10-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg10-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg10.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg11.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg11.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg3-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg3-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg3.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg4-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg4-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg4.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg5-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg5-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg5.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg6-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg6-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg6.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg7-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg7-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg7.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg8-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg8-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg8.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg9-dark.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg9-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\bg9.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\bg9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\chart-graph-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\chart-graph-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\chart-graph.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\chart-graph.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\membership-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\membership-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\membership.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\membership.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\ok-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\ok-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\ok.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\ok.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\please-verify-your-email-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\please-verify-your-email-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\please-verify-your-email.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\please-verify-your-email.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\welcome-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\welcome-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\auth\\welcome.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\auth\\welcome.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-1.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-10.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-11.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-12.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-13.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-14.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-16.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-17.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-19.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-2.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-20.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-21.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-23.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-24.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-25.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-27.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-28.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-29.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-3.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-30.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-4.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-5.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-6.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-7.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\avatars\\300-9.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\avatars\\300-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\email\\img-1.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\email\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\email\\img-2.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\email\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\email\\img-3.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\email\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\email\\img-4.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\email\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\email\\img-5.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\email\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\email\\img-6.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\email\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sigma-1\\17-dark.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sigma-1\\17-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\1.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\12.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\15.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\16.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\17.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\19.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\2.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\20.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\3.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\4.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\5.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\6.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\7.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\8.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\illustrations\\sketchy-1\\9.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\illustrations\\sketchy-1\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\logos\\custom-1.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\logos\\custom-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\logos\\default-small.svg",
+      "PackagePath": "staticwebassets\\metronic\\media\\logos\\default-small.svg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\logos\\favicon.ico",
+      "PackagePath": "staticwebassets\\metronic\\media\\logos\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\auth-bg.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\auth-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\auth-screens.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\auth-screens.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\layout\\customizer-header-bg.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\layout\\customizer-header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\layout\\dark-header.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\layout\\dark-header.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\layout\\dark-sidebar.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\layout\\dark-sidebar.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\layout\\light-header.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\layout\\light-header.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\layout\\light-sidebar.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\layout\\light-sidebar.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\menu-header-bg.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\menu-header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\misc\\qr.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\misc\\qr.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\patterns\\vector-1.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\patterns\\vector-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\preview\\demos\\demo1\\dark-ltr.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\preview\\demos\\demo1\\dark-ltr.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\preview\\demos\\demo1\\light-ltr.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\preview\\demos\\demo1\\light-ltr.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\preview\\demos\\demo2\\light-ltr.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\preview\\demos\\demo2\\light-ltr.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\preview\\demos\\demo4\\light-ltr.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\preview\\demos\\demo4\\light-ltr.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\preview\\demos\\demo5\\light-ltr.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\preview\\demos\\demo5\\light-ltr.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\preview\\demos\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\preview\\demos\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\1600x800\\img-1.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\1600x800\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-1.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-10.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-14.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-15.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-17.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-18.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-19.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-2.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-20.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-21.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-23.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-24.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-25.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-26.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-27.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-29.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-3.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-31.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-34.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-4.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-40.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-47.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-5.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-6.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-7.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-71.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-73.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-74.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-74.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-79.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-8.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x400\\img-9.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x400\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-10.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-11.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-12.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-14.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-15.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-16.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-18.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-20.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-21.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-22.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-23.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-25.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-26.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-30.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-31.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-33.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-35.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-39.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-40.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-42.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-43.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-45.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-46.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-47.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-48.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-49.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-54.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-55.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-56.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-57.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-58.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-59.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-60.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-61.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-62.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-63.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-64.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-65.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-82.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\600x600\\img-84.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\600x600\\img-84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\12.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\13.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\15.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\16.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\19.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\20.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\40.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\41.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\42.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\42.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\44.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\45.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\900x600\\46.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\900x600\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\1.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\10.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\100.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\100.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\11.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\12.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\123.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\123.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\13.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\14.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\15.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\151.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\151.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\16.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\169.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\169.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\17.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\177.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\177.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\178.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\178.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\18.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\19.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\192.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\192.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\193.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\193.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\194.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\194.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\197.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\197.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\2.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\20.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\207.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\207.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\209.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\209.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\21.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\210.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\210.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\211.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\211.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\214.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\214.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\215.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\215.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\22.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\23.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\24.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\25.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\26.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\27.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\28.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\29.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\3.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\30.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\31.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\32.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\33.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\34.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\35.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\36.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\37.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\38.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\39.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\4.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\40.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\41.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\42.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\43.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\44.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\45.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\46.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\47.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\48.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\49.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\5.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\50.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\52.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\53.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\58.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\59.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\6.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\63.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\68.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\7.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\71.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\76.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\78.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\78.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\8.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\9.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\96.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\96.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\ecommerce\\98.png",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\ecommerce\\98.png"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-10.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-11.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-2.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-3.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-4.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-5.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-7.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-8.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\media\\stock\\food\\img-9.jpg",
+      "PackagePath": "staticwebassets\\metronic\\media\\stock\\food\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\datatables\\datatables.bundle.css",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\datatables\\datatables.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\datatables\\datatables.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\datatables\\datatables.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\formrepeater\\formrepeater.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\formrepeater\\formrepeater.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\fslightbox\\fslightbox.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\fslightbox\\fslightbox.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\fullcalendar\\fullcalendar.bundle.css",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\fullcalendar\\fullcalendar.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\fullcalendar\\fullcalendar.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\fullcalendar\\fullcalendar.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\leaflet\\leaflet.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\leaflet\\leaflet.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\prismjs\\prismjs.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\prismjs\\prismjs.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\typedjs\\typedjs.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\typedjs\\typedjs.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\custom\\vis-timeline\\vis-timeline.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\custom\\vis-timeline\\vis-timeline.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\@fortawesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\bootstrap-icons\\bootstrap-iconse52a.woff",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\bootstrap-icons\\bootstrap-iconse52a.woff"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\bootstrap-icons\\bootstrap-iconse52a.woff2",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\bootstrap-icons\\bootstrap-iconse52a.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\keenicons\\keenicons-duotone.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\keenicons\\keenicons-duotone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\keenicons\\keenicons-outline.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\keenicons\\keenicons-outline.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\fonts\\keenicons\\keenicons-solid.ttf",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\fonts\\keenicons\\keenicons-solid.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\plugins.bundle.css",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\plugins.bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\hassa\\source\\repos\\ShoppingCartAdminMetronic\\wwwroot\\metronic\\plugins\\global\\plugins.bundle.js",
+      "PackagePath": "staticwebassets\\metronic\\plugins\\global\\plugins.bundle.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShoppingCartAdminMetronic.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShoppingCartAdminMetronic.props",
+      "PackagePath": "build\\ShoppingCartAdminMetronic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCartAdminMetronic.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCartAdminMetronic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCartAdminMetronic.props",
+      "PackagePath": "buildTransitive\\ShoppingCartAdminMetronic.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

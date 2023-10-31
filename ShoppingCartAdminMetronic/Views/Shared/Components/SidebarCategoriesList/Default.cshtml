@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Category>
+
+
+<div class="menu-inner flex-column collapse " id="kt_app_sidebar_menu_dashboards_collapse">
+@foreach(var item in Model){
+	<div class="menu-item">  <a class="menu-link" asp-controller="Categories" asp-action="CategoryType" asp-route-name="@item.Name"><span class="menu-bullet"><span class="bullet bullet-dot"></span></span><span class="menu-title">@item.Name</span></a>  </div>
+	}
+</div>
